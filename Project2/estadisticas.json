@@ -1,0 +1,62 @@
+{
+  "date": "Sat Jul 16 16:51:29 KST 2022",
+  "author": "jorgaf",
+  "description": "File created by Loxa Web site exporter. http://www.j4loxa.com/sna/gephi/plugins/index.html",
+  "graphs": [
+    {
+      "name": "1985to2020",
+      "title": "Title to 1985to2020",
+      "tip": "",
+      "nodes": "1562",
+      "edges": "3714",
+      "description": "",
+      "imgColorDescription": "",
+      "graphfile": "1985to2020/1985to2020.csv",
+      "pdffile": "1985to2020/1985to2020.pdf",
+      "browsegraph": "1985to2020/1985to2020.gexf",
+      "type": "Directed",
+      "metrics": [
+        {
+          "name": "Metric 1",
+          "value": "0,00",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Metric 2",
+          "value": "0,00",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Metric 3",
+          "value": "0,00",
+          "description": "Description for metric 3"
+        },
+        {
+          "name": "Metric 4",
+          "value": "0,00",
+          "description": "Description for metric 4"
+        },
+        {
+          "name": "Metric 5",
+          "value": "0,00",
+          "description": "Description for metric 5"
+        },
+        {
+          "name": "Metric 6",
+          "value": "0,00",
+          "description": "Description for metric 6"
+        },
+        {
+          "name": "Metric 7",
+          "value": "0,00",
+          "description": "Description for metric 7"
+        },
+        {
+          "name": "Metric 8",
+          "value": "0,00",
+          "description": "Description for metric 8"
+        }
+      ]
+    }
+  ]
+}
