@@ -13,4 +13,5 @@
       <attribute id="weighted outdegree" title="weighted outdegree" type="integer"/>
       <attribute id="weighted degree" title="weighted degree" type="integer"/>
     </attributes>
-    <attributes 
+  </graph>
+</gexf>
