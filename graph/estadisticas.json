@@ -1,19 +1,19 @@
 {
-  "date": "Sat Jul 16 16:40:12 KST 2022",
+  "date": "Sun Jul 17 17:44:37 KST 2022",
   "author": "jorgaf",
   "description": "File created by Loxa Web site exporter. http://www.j4loxa.com/sna/gephi/plugins/index.html",
   "graphs": [
     {
-      "name": "1986to1991",
-      "title": "Title to 1986to1991",
+      "name": "1986_to_1991",
+      "title": "1986년부터 1991년까지",
       "tip": "",
-      "nodes": "440",
-      "edges": "651",
+      "nodes": "220",
+      "edges": "312",
       "description": "",
       "imgColorDescription": "",
-      "graphfile": "1986to1991/1986to1991.csv",
-      "pdffile": "1986to1991/1986to1991.pdf",
-      "browsegraph": "1986to1991/1986to1991.gexf",
+      "graphfile": "1986_to_1991/1986_to_1991.csv",
+      "pdffile": "1986_to_1991/1986_to_1991.pdf",
+      "browsegraph": "1986_to_1991/1986_to_1991.gexf",
       "type": "Directed",
       "metrics": [
         {
@@ -59,16 +59,16 @@
       ]
     },
     {
-      "name": "1992to1997",
-      "title": "Title to 1992to1997",
+      "name": "1992_to_1997",
+      "title": "1992년부터 1997년까지",
       "tip": "",
-      "nodes": "456",
-      "edges": "684",
+      "nodes": "309",
+      "edges": "524",
       "description": "",
       "imgColorDescription": "",
-      "graphfile": "1992to1997/1992to1997.csv",
-      "pdffile": "1992to1997/1992to1997.pdf",
-      "browsegraph": "1992to1997/1992to1997.gexf",
+      "graphfile": "1992_to_1997/1992_to_1997.csv",
+      "pdffile": "1992_to_1997/1992_to_1997.pdf",
+      "browsegraph": "1992_to_1997/1992_to_1997.gexf",
       "type": "Directed",
       "metrics": [
         {
@@ -114,16 +114,16 @@
       ]
     },
     {
-      "name": "2015to2020",
-      "title": "Title to 2015to2020",
+      "name": "2015_to_2020",
+      "title": "2015년부터 2020년까지",
       "tip": "",
-      "nodes": "539",
-      "edges": "774",
+      "nodes": "381",
+      "edges": "579",
       "description": "",
       "imgColorDescription": "",
-      "graphfile": "2015to2020/2015to2020.csv",
-      "pdffile": "2015to2020/2015to2020.pdf",
-      "browsegraph": "2015to2020/2015to2020.gexf",
+      "graphfile": "2015_to_2020/2015_to_2020.csv",
+      "pdffile": "2015_to_2020/2015_to_2020.pdf",
+      "browsegraph": "2015_to_2020/2015_to_2020.gexf",
       "type": "Directed",
       "metrics": [
         {

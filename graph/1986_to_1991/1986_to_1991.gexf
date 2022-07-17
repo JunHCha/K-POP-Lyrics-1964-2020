@@ -1,0 +1,3829 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2022-07-17">
+    <creator>Gephi 0.9.3</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="indegree" title="In-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Out-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted indegree" title="Weighted In-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted outdegree" title="Weighted Out-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="가슴(N)" label="가슴">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="9"/>
+          <attvalue for="degree" value="9"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="97.0"/>
+          <attvalue for="weighted degree" value="97.0"/>
+        </attvalues>
+        <viz:size value="7.9527025"/>
+        <viz:position x="425.56195" y="34.331024"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="가(P)" label="가">
+        <attvalues>
+          <attvalue for="indegree" value="18"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="18"/>
+          <attvalue for="weighted indegree" value="205.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="205.0"/>
+        </attvalues>
+        <viz:size value="12.695946"/>
+        <viz:position x="85.349686" y="208.68442"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="남(P)" label="남">
+        <attvalues>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="weighted indegree" value="43.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="43.0"/>
+        </attvalues>
+        <viz:size value="5.5810814"/>
+        <viz:position x="464.9362" y="-93.69493"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="뛰(P)" label="뛰">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="11.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="11.0"/>
+        </attvalues>
+        <viz:size value="4.175676"/>
+        <viz:position x="561.99744" y="134.87355"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="뜨겁(P)" label="뜨겁">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="17.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="17.0"/>
+        </attvalues>
+        <viz:size value="4.439189"/>
+        <viz:position x="242.17796" y="-206.66512"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="비(P)" label="비">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="22.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="22.0"/>
+        </attvalues>
+        <viz:size value="4.658784"/>
+        <viz:position x="426.75934" y="182.62357"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="쌓이(P)" label="쌓이">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="21.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="21.0"/>
+        </attvalues>
+        <viz:size value="4.614865"/>
+        <viz:position x="567.1954" y="-47.923546"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="아프(P)" label="아프">
+        <attvalues>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted indegree" value="62.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="62.0"/>
+        </attvalues>
+        <viz:size value="6.4155407"/>
+        <viz:position x="349.06033" y="41.957745"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="작(P)" label="작">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="511.08688" y="1.8510376"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="태우(P)" label="태우">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="577.4427" y="49.97431"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="가을(N)" label="가을">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="18.0"/>
+          <attvalue for="weighted degree" value="18.0"/>
+        </attvalues>
+        <viz:size value="4.483108"/>
+        <viz:position x="-355.92673" y="360.71704"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="오(P)" label="오">
+        <attvalues>
+          <attvalue for="indegree" value="8"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="weighted indegree" value="86.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="86.0"/>
+        </attvalues>
+        <viz:size value="7.469595"/>
+        <viz:position x="-145.62396" y="341.94226"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="흐리(P)" label="흐리">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="22.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="22.0"/>
+        </attvalues>
+        <viz:size value="4.658784"/>
+        <viz:position x="-470.3121" y="205.47292"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="거리(N)" label="거리">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="194.81349" y="546.3032"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="걷(P)" label="걷">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="30.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="30.0"/>
+        </attvalues>
+        <viz:size value="5.010135"/>
+        <viz:position x="115.71985" y="512.9154"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="걸(N)" label="걸">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-124.772995" y="635.32117"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="스치(P)" label="스치">
+        <attvalues>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="26.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="26.0"/>
+        </attvalues>
+        <viz:size value="4.8344593"/>
+        <viz:position x="-146.7049" y="550.5111"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="경아(N)" label="경아">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-581.2311" y="-56.86326"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="돌아오(P)" label="돌아오">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-650.8782" y="-4.6768966"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="곁(N)" label="곁">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="5"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="64.0"/>
+          <attvalue for="weighted degree" value="64.0"/>
+        </attvalues>
+        <viz:size value="6.5033784"/>
+        <viz:position x="193.52902" y="-119.96451"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="떠나(P)" label="떠나">
+        <attvalues>
+          <attvalue for="indegree" value="9"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="9"/>
+          <attvalue for="weighted indegree" value="122.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="122.0"/>
+        </attvalues>
+        <viz:size value="9.050675"/>
+        <viz:position x="109.57736" y="-133.23563"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="떠나가(P)" label="떠나가">
+        <attvalues>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="weighted indegree" value="56.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="56.0"/>
+        </attvalues>
+        <viz:size value="6.152027"/>
+        <viz:position x="83.58154" y="117.2867"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="머물(P)" label="머물">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="375.9566" y="-313.47772"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="없(P)" label="없">
+        <attvalues>
+          <attvalue for="indegree" value="25"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="25"/>
+          <attvalue for="weighted indegree" value="301.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="301.0"/>
+        </attvalues>
+        <viz:size value="16.912163"/>
+        <viz:position x="18.404951" y="-200.18694"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="있(P)" label="있">
+        <attvalues>
+          <attvalue for="indegree" value="9"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="9"/>
+          <attvalue for="weighted indegree" value="151.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="151.0"/>
+        </attvalues>
+        <viz:size value="10.324325"/>
+        <viz:position x="86.62121" y="41.12162"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="곳(N)" label="곳">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="6"/>
+          <attvalue for="degree" value="6"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="67.0"/>
+          <attvalue for="weighted degree" value="67.0"/>
+        </attvalues>
+        <viz:size value="6.635135"/>
+        <viz:position x="145.01091" y="173.35977"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="깊(P)" label="깊">
+        <attvalues>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted indegree" value="44.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="44.0"/>
+        </attvalues>
+        <viz:size value="5.625"/>
+        <viz:position x="225.9587" y="299.07434"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="멀(P)" label="멀">
+        <attvalues>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="28.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="28.0"/>
+        </attvalues>
+        <viz:size value="4.9222975"/>
+        <viz:position x="-66.11702" y="200.18294"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="쉬(P)" label="쉬">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="11.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="11.0"/>
+        </attvalues>
+        <viz:size value="4.175676"/>
+        <viz:position x="318.2482" y="272.47195"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="어둡(P)" label="어둡">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="23.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="23.0"/>
+        </attvalues>
+        <viz:size value="4.7027025"/>
+        <viz:position x="98.25088" y="353.89774"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="그날(N)" label="그날">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="18.0"/>
+          <attvalue for="weighted degree" value="18.0"/>
+        </attvalues>
+        <viz:size value="4.483108"/>
+        <viz:position x="-221.86156" y="261.75998"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="잊(P)" label="잊">
+        <attvalues>
+          <attvalue for="indegree" value="8"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="weighted indegree" value="128.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="128.0"/>
+        </attvalues>
+        <viz:size value="9.31419"/>
+        <viz:position x="-189.39046" y="32.95474"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="그리움(N)" label="그리움">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="23.0"/>
+          <attvalue for="weighted degree" value="23.0"/>
+        </attvalues>
+        <viz:size value="4.7027025"/>
+        <viz:position x="551.45123" y="-198.6749"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="기쁨(N)" label="기쁨">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="10.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="461.55325" y="-266.75897"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="되(P)" label="되">
+        <attvalues>
+          <attvalue for="indegree" value="8"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="weighted indegree" value="94.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="94.0"/>
+        </attvalues>
+        <viz:size value="7.8209457"/>
+        <viz:position x="273.36154" y="-106.47823"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="기억(N)" label="기억">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="5"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="42.0"/>
+          <attvalue for="weighted degree" value="42.0"/>
+        </attvalues>
+        <viz:size value="5.537162"/>
+        <viz:position x="-335.92957" y="-56.22179"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="나(P)" label="나">
+        <attvalues>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="37.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="37.0"/>
+        </attvalues>
+        <viz:size value="5.317568"/>
+        <viz:position x="-318.99188" y="-211.64244"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="슬프(P)" label="슬프">
+        <attvalues>
+          <attvalue for="indegree" value="12"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="12"/>
+          <attvalue for="weighted indegree" value="127.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="127.0"/>
+        </attvalues>
+        <viz:size value="9.27027"/>
+        <viz:position x="-186.93823" y="-40.9586"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="아름답(P)" label="아름답">
+        <attvalues>
+          <attvalue for="indegree" value="7"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="weighted indegree" value="102.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="102.0"/>
+        </attvalues>
+        <viz:size value="8.1722975"/>
+        <viz:position x="-156.77719" y="-194.38826"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="하(P)" label="하">
+        <attvalues>
+          <attvalue for="indegree" value="19"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="19"/>
+          <attvalue for="weighted indegree" value="353.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="353.0"/>
+        </attvalues>
+        <viz:size value="19.195946"/>
+        <viz:position x="-158.43633" y="104.97977"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="길(N)" label="길">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="7"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="88.0"/>
+          <attvalue for="weighted degree" value="88.0"/>
+        </attvalues>
+        <viz:size value="7.557432"/>
+        <viz:position x="48.458656" y="255.36472"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="찾(P)" label="찾">
+        <attvalues>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="31.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="31.0"/>
+        </attvalues>
+        <viz:size value="5.0540543"/>
+        <viz:position x="239.10724" y="41.01467"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="꿈(N)" label="꿈">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="5"/>
+          <attvalue for="degree" value="5"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="54.0"/>
+          <attvalue for="weighted degree" value="54.0"/>
+        </attvalues>
+        <viz:size value="6.064189"/>
+        <viz:position x="169.72253" y="-192.40704"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="꾸(P)" label="꾸">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="19.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="19.0"/>
+        </attvalues>
+        <viz:size value="4.527027"/>
+        <viz:position x="336.31763" y="-383.2378"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="보(P)" label="보">
+        <attvalues>
+          <attvalue for="indegree" value="11"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="weighted indegree" value="110.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="110.0"/>
+        </attvalues>
+        <viz:size value="8.523648"/>
+        <viz:position x="-14.861167" y="-135.11699"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="나라(N)" label="나라">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="18.0"/>
+          <attvalue for="weighted degree" value="18.0"/>
+        </attvalues>
+        <viz:size value="4.483108"/>
+        <viz:position x="289.84576" y="495.22525"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="새파랗(P)" label="새파랗">
+        <attvalues>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="24.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="24.0"/>
+        </attvalues>
+        <viz:size value="4.7466216"/>
+        <viz:position x="311.30264" y="343.4955"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="파랗(P)" label="파랗">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="10.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="283.09158" y="577.2796"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="나리(N)" label="나리">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="27.0"/>
+          <attvalue for="weighted degree" value="27.0"/>
+        </attvalues>
+        <viz:size value="4.8783784"/>
+        <viz:position x="-478.60175" y="411.18066"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="모(P)" label="모">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="27.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="27.0"/>
+        </attvalues>
+        <viz:size value="4.8783784"/>
+        <viz:position x="-537.802" y="362.90778"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="낙엽(N)" label="낙엽">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="381.88223" y="-522.191"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="떨어지(P)" label="떨어지">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="391.14825" y="-447.28162"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="날(N)" label="날">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="11"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="147.0"/>
+          <attvalue for="weighted degree" value="147.0"/>
+        </attvalues>
+        <viz:size value="10.148648"/>
+        <viz:position x="-122.22076" y="11.155758"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="기다리(P)" label="기다리">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-396.37823" y="73.22664"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="만나(P)" label="만나">
+        <attvalues>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted indegree" value="46.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="46.0"/>
+        </attvalues>
+        <viz:size value="5.7128377"/>
+        <viz:position x="-143.38385" y="-285.50162"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="울(P)" label="울">
+        <attvalues>
+          <attvalue for="indegree" value="6"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="6"/>
+          <attvalue for="weighted indegree" value="64.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="64.0"/>
+        </attvalues>
+        <viz:size value="6.5033784"/>
+        <viz:position x="-216.36931" y="176.05106"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="위하(P)" label="위하">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="15.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="15.0"/>
+        </attvalues>
+        <viz:size value="4.3513513"/>
+        <viz:position x="-403.38992" y="-6.8240976"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="이렇(P)" label="이렇">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="18.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="18.0"/>
+        </attvalues>
+        <viz:size value="4.483108"/>
+        <viz:position x="45.878204" y="-93.34702"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="지나(P)" label="지나">
+        <attvalues>
+          <attvalue for="indegree" value="8"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="weighted indegree" value="93.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="93.0"/>
+        </attvalues>
+        <viz:size value="7.777027"/>
+        <viz:position x="-67.668846" y="115.16782"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="내일(N)" label="내일">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-636.25824" y="88.4455"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="찾아오(P)" label="찾아오">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-625.89417" y="168.99512"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="네(N)" label="네">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="21.0"/>
+          <attvalue for="weighted degree" value="21.0"/>
+        </attvalues>
+        <viz:size value="4.614865"/>
+        <viz:position x="136.31517" y="431.1777"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="노래(N)" label="노래">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="20.0"/>
+          <attvalue for="weighted degree" value="20.0"/>
+        </attvalues>
+        <viz:size value="4.5709457"/>
+        <viz:position x="-393.35156" y="-243.52713"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="부르(P)" label="부르">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="19.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="19.0"/>
+        </attvalues>
+        <viz:size value="4.527027"/>
+        <viz:position x="-340.93002" y="-440.57016"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="눈(N)" label="눈">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="8"/>
+          <attvalue for="degree" value="8"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="115.0"/>
+          <attvalue for="weighted degree" value="115.0"/>
+        </attvalues>
+        <viz:size value="8.743243"/>
+        <viz:position x="-375.96167" y="-130.75754"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="감(P)" label="감">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="54.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="54.0"/>
+        </attvalues>
+        <viz:size value="6.064189"/>
+        <viz:position x="-218.45111" y="-225.7384"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="뜨(P)" label="뜨">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="32.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="32.0"/>
+        </attvalues>
+        <viz:size value="5.097973"/>
+        <viz:position x="-527.2572" y="-200.69257"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="맺히(P)" label="맺히">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-530.6249" y="-124.12481"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="바라보(P)" label="바라보">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="18.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="18.0"/>
+        </attvalues>
+        <viz:size value="4.483108"/>
+        <viz:position x="-486.85162" y="45.65262"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="젖(P)" label="젖">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-483.81998" y="-257.14923"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="흐르(P)" label="흐르">
+        <attvalues>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted indegree" value="70.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="70.0"/>
+        </attvalues>
+        <viz:size value="6.766892"/>
+        <viz:position x="-310.044" y="-285.85983"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="눈물(N)" label="눈물">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="6"/>
+          <attvalue for="degree" value="6"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="117.0"/>
+          <attvalue for="weighted degree" value="117.0"/>
+        </attvalues>
+        <viz:size value="8.831081"/>
+        <viz:position x="-74.67113" y="-292.11407"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="흘리(P)" label="흘리">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="47.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="47.0"/>
+        </attvalues>
+        <viz:size value="5.756757"/>
+        <viz:position x="-177.91696" y="-365.758"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="님(N)" label="님">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="11.0"/>
+          <attvalue for="weighted degree" value="11.0"/>
+        </attvalues>
+        <viz:size value="4.175676"/>
+        <viz:position x="265.53375" y="-354.27545"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="다디다담(N)" label="다디다담">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="16.0"/>
+          <attvalue for="weighted degree" value="16.0"/>
+        </attvalues>
+        <viz:size value="4.3952703"/>
+        <viz:position x="-514.0489" y="289.4472"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="담(P)" label="담">
+        <attvalues>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="56.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="56.0"/>
+        </attvalues>
+        <viz:size value="6.152027"/>
+        <viz:position x="-553.094" y="202.63495"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="다디담(N)" label="다디담">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="24.0"/>
+          <attvalue for="weighted degree" value="24.0"/>
+        </attvalues>
+        <viz:size value="4.7466216"/>
+        <viz:position x="-548.3374" y="118.12358"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="달(N)" label="달">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="76.70173" y="-337.4548"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="담다디(N)" label="담다디">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="16.0"/>
+          <attvalue for="weighted degree" value="16.0"/>
+        </attvalues>
+        <viz:size value="4.3952703"/>
+        <viz:position x="-593.61584" y="270.6811"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="대답(N)" label="대답">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="219.91068" y="-427.9123"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="도네(N)" label="도네">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="641.044" y="119.04246"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="돌아가네(P)" label="돌아가네">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="14.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="14.0"/>
+        </attvalues>
+        <viz:size value="4.3074327"/>
+        <viz:position x="610.81067" y="208.55992"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="뒤(N)" label="뒤">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-412.60406" y="-402.17453"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="때(N)" label="때">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="7"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="59.0"/>
+          <attvalue for="weighted degree" value="59.0"/>
+        </attvalues>
+        <viz:size value="6.283784"/>
+        <viz:position x="-139.37704" y="196.62207"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="그리(P)" label="그리">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="15.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="15.0"/>
+        </attvalues>
+        <viz:size value="4.3513513"/>
+        <viz:position x="-294.03098" y="196.01071"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="기쁘(P)" label="기쁘">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-280.58267" y="395.76373"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="라디오(N)" label="라디오">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="38.0"/>
+          <attvalue for="weighted degree" value="38.0"/>
+        </attvalues>
+        <viz:size value="5.3614864"/>
+        <viz:position x="-41.73006" y="-589.8931"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="켜(P)" label="켜">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="20.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="20.0"/>
+        </attvalues>
+        <viz:size value="4.5709457"/>
+        <viz:position x="-97.91286" y="-645.57983"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="크(P)" label="크">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="18.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="18.0"/>
+        </attvalues>
+        <viz:size value="4.483108"/>
+        <viz:position x="8.532438" y="-650.72266"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="르네(N)" label="르네">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-438.6991" y="480.49658"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="부(P)" label="부">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-364.76328" y="531.5556"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="리(N)" label="리">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="3"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="28.0"/>
+          <attvalue for="weighted degree" value="28.0"/>
+        </attvalues>
+        <viz:size value="4.9222975"/>
+        <viz:position x="-324.5629" y="122.86936"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="싫(P)" label="싫">
+        <attvalues>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted indegree" value="32.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="32.0"/>
+        </attvalues>
+        <viz:size value="5.097973"/>
+        <viz:position x="-235.56969" y="90.11893"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="마(N)" label="마">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="466.07306" y="-451.22955"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="가지(P)" label="가지">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="520.83734" y="-386.50116"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="마음(N)" label="마음">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="14"/>
+          <attvalue for="degree" value="14"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="186.0"/>
+          <attvalue for="weighted degree" value="186.0"/>
+        </attvalues>
+        <viz:size value="11.861486"/>
+        <viz:position x="160.20601" y="83.31825"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="모르(P)" label="모르">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="26.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="26.0"/>
+        </attvalues>
+        <viz:size value="4.8344593"/>
+        <viz:position x="307.85712" y="-19.884773"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="알(P)" label="알">
+        <attvalues>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="49.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="49.0"/>
+        </attvalues>
+        <viz:size value="5.844595"/>
+        <viz:position x="220.12856" y="128.00624"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="열(P)" label="열">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="15.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="15.0"/>
+        </attvalues>
+        <viz:size value="4.3513513"/>
+        <viz:position x="391.48312" y="261.88458"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="주(P)" label="주">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="29.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="29.0"/>
+        </attvalues>
+        <viz:size value="4.966216"/>
+        <viz:position x="299.29227" y="99.8079"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="말(N)" label="말">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="7"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="183.0"/>
+          <attvalue for="weighted degree" value="183.0"/>
+        </attvalues>
+        <viz:size value="11.72973"/>
+        <viz:position x="-107.16846" y="-138.18419"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="수줍(P)" label="수줍">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="9.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="9.0"/>
+        </attvalues>
+        <viz:size value="4.0878377"/>
+        <viz:position x="-304.05963" y="-361.92648"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="맘(N)" label="맘">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="495.63715" y="96.53682"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="모두(N)" label="모두">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="14.0"/>
+          <attvalue for="weighted degree" value="14.0"/>
+        </attvalues>
+        <viz:size value="4.3074327"/>
+        <viz:position x="-575.9587" y="27.551386"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="부질없(P)" label="부질없">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-638.76794" y="-101.460304"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="사라지(P)" label="사라지">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="15.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="15.0"/>
+        </attvalues>
+        <viz:size value="4.3513513"/>
+        <viz:position x="-496.6643" y="-28.253046"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="모습(N)" label="모습">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="7"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="67.0"/>
+          <attvalue for="weighted degree" value="67.0"/>
+        </attvalues>
+        <viz:size value="6.635135"/>
+        <viz:position x="-249.69676" y="-4.8380246"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="몸살(N)" label="몸살">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-339.76086" y="262.76608"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="미싱(N)" label="미싱">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="575.98553" y="281.14948"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="바람(N)" label="바람">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="6"/>
+          <attvalue for="degree" value="6"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="96.0"/>
+          <attvalue for="weighted degree" value="96.0"/>
+        </attvalues>
+        <viz:size value="7.908784"/>
+        <viz:position x="-13.713823" y="498.96204"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="따르(P)" label="따르">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="50.17505" y="632.30005"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="불(P)" label="불">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="49.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="49.0"/>
+        </attvalues>
+        <viz:size value="5.844595"/>
+        <viz:position x="-55.179405" y="580.54785"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="불어오(P)" label="불어오">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-26.28414" y="646.7961"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="바람아(N)" label="바람아">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="9.0"/>
+          <attvalue for="weighted degree" value="9.0"/>
+        </attvalues>
+        <viz:size value="4.0878377"/>
+        <viz:position x="-137.42213" y="-578.94507"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="멈추(P)" label="멈추">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="9.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="9.0"/>
+        </attvalues>
+        <viz:size value="4.0878377"/>
+        <viz:position x="-206.31757" y="-613.3247"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="발걸음(N)" label="발걸음">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="485.39847" y="265.5786"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="돌아서(P)" label="돌아서">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="19.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="19.0"/>
+        </attvalues>
+        <viz:size value="4.527027"/>
+        <viz:position x="404.43954" y="109.51219"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="밤(N)" label="밤">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="10"/>
+          <attvalue for="degree" value="10"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="102.0"/>
+          <attvalue for="weighted degree" value="102.0"/>
+        </attvalues>
+        <viz:size value="8.1722975"/>
+        <viz:position x="-27.501598" y="265.026"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="길(P)" label="길">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-93.97245" y="493.0056"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="외롭(P)" label="외롭">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="12.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="12.0"/>
+        </attvalues>
+        <viz:size value="4.2195945"/>
+        <viz:position x="-180.97781" y="450.33035"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="잠들(P)" label="잠들">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="10.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="-19.65379" y="426.07996"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="하얗(P)" label="하얗">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-108.06272" y="417.25168"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="별(N)" label="별">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="3"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="25.0"/>
+          <attvalue for="weighted degree" value="25.0"/>
+        </attvalues>
+        <viz:size value="4.7905407"/>
+        <viz:position x="215.35077" y="-290.10834"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="빛나(P)" label="빛나">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="300.4591" y="-463.8978"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="볼(N)" label="볼">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="11.0"/>
+          <attvalue for="weighted degree" value="11.0"/>
+        </attvalues>
+        <viz:size value="4.175676"/>
+        <viz:position x="32.394375" y="-428.24106"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="비(N)" label="비">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="3"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="57.0"/>
+          <attvalue for="weighted degree" value="57.0"/>
+        </attvalues>
+        <viz:size value="6.1959457"/>
+        <viz:position x="-224.43845" y="520.5637"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="내리(P)" label="내리">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="31.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="31.0"/>
+        </attvalues>
+        <viz:size value="5.0540543"/>
+        <viz:position x="-291.88126" y="573.8192"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="맞(P)" label="맞">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="10.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="-212.51173" y="610.5826"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="빗물(N)" label="빗물">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="444.80292" y="-358.13477"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="같(P)" label="같">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="17.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="17.0"/>
+        </attvalues>
+        <viz:size value="4.439189"/>
+        <viz:position x="377.6217" y="-234.87836"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="사람(N)" label="사람">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="11"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="135.0"/>
+          <attvalue for="weighted degree" value="135.0"/>
+        </attvalues>
+        <viz:size value="9.621622"/>
+        <viz:position x="26.017721" y="54.405277"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="그렇(P)" label="그렇">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="20.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="20.0"/>
+        </attvalues>
+        <viz:size value="4.5709457"/>
+        <viz:position x="224.1273" y="-43.588974"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="그립(P)" label="그립">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="205.58421" y="229.4889"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="많(P)" label="많">
+        <attvalues>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="33.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="33.0"/>
+        </attvalues>
+        <viz:size value="5.141892"/>
+        <viz:position x="86.27207" y="-222.99776"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="사랑(N)" label="사랑">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="33"/>
+          <attvalue for="degree" value="33"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="599.0"/>
+          <attvalue for="weighted degree" value="599.0"/>
+        </attvalues>
+        <viz:size value="30.0"/>
+        <viz:position x="118.7158" y="-49.4289"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="그(P)" label="그">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="277.80716" y="192.75223"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="남기(P)" label="남기">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="17.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="17.0"/>
+        </attvalues>
+        <viz:size value="4.439189"/>
+        <viz:position x="-44.182957" y="-58.937813"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="느끼(P)" label="느끼">
+        <attvalues>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="25.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="25.0"/>
+        </attvalues>
+        <viz:size value="4.7905407"/>
+        <viz:position x="4.641984" y="158.22607"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="르(P)" label="르">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="10.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="409.2167" y="-40.56409"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="받(P)" label="받">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="16.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="16.0"/>
+        </attvalues>
+        <viz:size value="4.3952703"/>
+        <viz:position x="317.0066" y="-180.8363"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="변하(P)" label="변하">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="15.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="15.0"/>
+        </attvalues>
+        <viz:size value="4.3513513"/>
+        <viz:position x="137.48486" y="-285.12146"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="살(P)" label="살">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="398.17023" y="-153.48257"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="잃어버리(P)" label="잃어버리">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="15.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="15.0"/>
+        </attvalues>
+        <viz:size value="4.3513513"/>
+        <viz:position x="6.205225" y="-268.61902"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="철없(P)" label="철없">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="10.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="353.99658" y="-93.07538"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="상처(N)" label="상처">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="549.42236" y="-119.90801"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="새(N)" label="새">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="3"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="23.0"/>
+          <attvalue for="weighted degree" value="23.0"/>
+        </attvalues>
+        <viz:size value="4.7027025"/>
+        <viz:position x="347.42078" y="168.42056"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="날아가(P)" label="날아가">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="9.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="9.0"/>
+        </attvalues>
+        <viz:size value="4.0878377"/>
+        <viz:position x="512.7848" y="198.56123"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="생각(N)" label="생각">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="4"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="51.0"/>
+          <attvalue for="weighted degree" value="51.0"/>
+        </attvalues>
+        <viz:size value="5.932432"/>
+        <viz:position x="-269.41766" y="-147.03181"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="세상(N)" label="세상">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="4"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="39.0"/>
+          <attvalue for="weighted degree" value="39.0"/>
+        </attvalues>
+        <viz:size value="5.4054055"/>
+        <viz:position x="-2.900769" y="-345.97925"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="세월(N)" label="세월">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="7"/>
+          <attvalue for="degree" value="7"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="69.0"/>
+          <attvalue for="weighted degree" value="69.0"/>
+        </attvalues>
+        <viz:size value="6.722973"/>
+        <viz:position x="-198.12148" y="-128.74594"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="지나가(P)" label="지나가">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="17.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="17.0"/>
+        </attvalues>
+        <viz:size value="4.439189"/>
+        <viz:position x="-433.8016" y="-171.89166"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="흘러가(P)" label="흘러가">
+        <attvalues>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="19.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="19.0"/>
+        </attvalues>
+        <viz:size value="4.527027"/>
+        <viz:position x="-233.28543" y="-309.54773"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="흩(P)" label="흩">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-389.60242" y="-321.09244"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="세월속(N)" label="세월속">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="163.21832" y="9.3498745"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="소리(N)" label="소리">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="171.28802" y="-367.8379"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="소용(N)" label="소용">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="10.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="-1.9443895" y="-509.14716"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="속(N)" label="속">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="10.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="140.35904" y="285.80292"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="손(N)" label="손">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="30.0"/>
+          <attvalue for="weighted degree" value="30.0"/>
+        </attvalues>
+        <viz:size value="5.010135"/>
+        <viz:position x="430.69608" y="479.6049"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="잡(P)" label="잡">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="30.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="30.0"/>
+        </attvalues>
+        <viz:size value="5.010135"/>
+        <viz:position x="365.28683" y="535.96106"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="수(N)" label="수">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="12.0"/>
+          <attvalue for="weighted degree" value="12.0"/>
+        </attvalues>
+        <viz:size value="4.2195945"/>
+        <viz:position x="108.42489" y="-415.62088"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="순간(N)" label="순간">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-190.89961" y="-514.08453"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="스(N)" label="스">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="13.0"/>
+          <attvalue for="weighted degree" value="13.0"/>
+        </attvalues>
+        <viz:size value="4.2635136"/>
+        <viz:position x="309.6979" y="-564.2726"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="잘(P)" label="잘">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="13.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="13.0"/>
+        </attvalues>
+        <viz:size value="4.2635136"/>
+        <viz:position x="229.71645" y="-610.3651"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="슬픔(N)" label="슬픔">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="10.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="61.438698" y="440.1387"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="시간(N)" label="시간">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="3"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="28.0"/>
+          <attvalue for="weighted degree" value="28.0"/>
+        </attvalues>
+        <viz:size value="4.9222975"/>
+        <viz:position x="-72.270645" y="-207.2178"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="시절(N)" label="시절">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="3"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="28.0"/>
+          <attvalue for="weighted degree" value="28.0"/>
+        </attvalues>
+        <viz:size value="4.9222975"/>
+        <viz:position x="-52.540745" y="346.5847"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="어리(P)" label="어리">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="10.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="42.44307" y="549.5719"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="아침(N)" label="아침">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="14.0"/>
+          <attvalue for="weighted degree" value="14.0"/>
+        </attvalues>
+        <viz:size value="4.3074327"/>
+        <viz:position x="-288.15558" y="474.19962"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="이르(P)" label="이르">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-371.7883" y="444.59702"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="얘기(N)" label="얘기">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="22.0"/>
+          <attvalue for="weighted degree" value="22.0"/>
+        </attvalues>
+        <viz:size value="4.658784"/>
+        <viz:position x="-211.3074" y="370.8034"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="어둠(N)" label="어둠">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="9.0"/>
+          <attvalue for="weighted degree" value="9.0"/>
+        </attvalues>
+        <viz:size value="4.0878377"/>
+        <viz:position x="387.7803" y="372.74274"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="어른(N)" label="어른">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="473.02634" y="-188.12146"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="얼굴(N)" label="얼굴">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="13.0"/>
+          <attvalue for="weighted degree" value="13.0"/>
+        </attvalues>
+        <viz:size value="4.2635136"/>
+        <viz:position x="-93.51775" y="-376.56653"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="여인(N)" label="여인">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="266.01373" y="403.1749"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="영화(N)" label="영화">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-443.97357" y="-85.29756"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="옛날(N)" label="옛날">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-425.87936" y="341.41644"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="오늘(N)" label="오늘">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-420.55267" y="267.70776"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="웃음(N)" label="웃음">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="15.0"/>
+          <attvalue for="weighted degree" value="15.0"/>
+        </attvalues>
+        <viz:size value="4.3513513"/>
+        <viz:position x="-352.5215" y="-536.4608"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="보이(P)" label="보이">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-282.00513" y="-577.9761"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="짓(P)" label="짓">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-420.9754" y="-490.71027"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="위(N)" label="위">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-279.10132" y="308.4814"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="으(N)" label="으">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="623.7091" y="-160.17444"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="이름(N)" label="이름">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="17.0"/>
+          <attvalue for="weighted degree" value="17.0"/>
+        </attvalues>
+        <viz:size value="4.439189"/>
+        <viz:position x="-155.74397" y="-442.31296"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="이밤(N)" label="이밤">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="9.0"/>
+          <attvalue for="weighted degree" value="9.0"/>
+        </attvalues>
+        <viz:size value="4.0878377"/>
+        <viz:position x="20.519768" y="342.90802"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="이별(N)" label="이별">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="4"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="45.0"/>
+          <attvalue for="weighted degree" value="45.0"/>
+        </attvalues>
+        <viz:size value="5.6689186"/>
+        <viz:position x="-118.93749" y="-64.10217"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="이상(N)" label="이상">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-88.12486" y="-496.64215"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="이제(N)" label="이제">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="12"/>
+          <attvalue for="degree" value="12"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="149.0"/>
+          <attvalue for="weighted degree" value="149.0"/>
+        </attvalues>
+        <viz:size value="10.236486"/>
+        <viz:position x="25.488348" y="-9.859071"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="일(N)" label="일">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="3"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="27.0"/>
+          <attvalue for="weighted degree" value="27.0"/>
+        </attvalues>
+        <viz:size value="4.8783784"/>
+        <viz:position x="-54.372513" y="40.49875"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="입(N)" label="입">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="484.5798" y="419.87067"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="맞추(P)" label="맞추">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="539.17413" y="356.47473"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="잠(N)" label="잠">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="16.0"/>
+          <attvalue for="weighted degree" value="16.0"/>
+        </attvalues>
+        <viz:size value="4.3952703"/>
+        <viz:position x="-588.84216" y="-262.40787"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="들(P)" label="들">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="16.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="16.0"/>
+        </attvalues>
+        <viz:size value="4.3952703"/>
+        <viz:position x="-615.3142" y="-182.7346"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="전(N)" label="전">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="10.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="-447.93" y="128.90742"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="줄(N)" label="줄">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-44.81627" y="-434.83023"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="지(N)" label="지">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="191.54234" y="371.22446"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="지마라(N)" label="지마라">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="10.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="207.34084" y="460.49924"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="지울수(N)" label="지울수">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="78.43383" y="-501.71637"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="착각(N)" label="착각">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="120.23862" y="-641.04236"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="지나치(P)" label="지나치">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="8.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="61.063316" y="-591.16724"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="창가(N)" label="창가">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="648.60657" y="15.577632"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="앉(P)" label="앉">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="645.39624" y="-72.06147"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="창문(N)" label="창문">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="455.8762" y="338.4068"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="처음(N)" label="처음">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="13.0"/>
+          <attvalue for="weighted degree" value="13.0"/>
+        </attvalues>
+        <viz:size value="4.2635136"/>
+        <viz:position x="-267.39505" y="-491.72272"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="첫사랑(N)" label="첫사랑">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="-246.98161" y="-417.19104"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="추억(N)" label="추억">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="6"/>
+          <attvalue for="degree" value="6"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="64.0"/>
+          <attvalue for="weighted degree" value="64.0"/>
+        </attvalues>
+        <viz:size value="6.5033784"/>
+        <viz:position x="-268.16388" y="-75.0804"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="춤(N)" label="춤">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="20.0"/>
+          <attvalue for="weighted degree" value="20.0"/>
+        </attvalues>
+        <viz:size value="4.5709457"/>
+        <viz:position x="539.1274" y="-310.60355"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="추(P)" label="추">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="20.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="20.0"/>
+        </attvalues>
+        <viz:size value="4.5709457"/>
+        <viz:position x="596.9156" y="-263.04385"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="편지(N)" label="편지">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="11.0"/>
+          <attvalue for="weighted degree" value="11.0"/>
+        </attvalues>
+        <viz:size value="4.175676"/>
+        <viz:position x="-492.91312" y="-423.28302"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="쓰(P)" label="쓰">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="11.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="11.0"/>
+        </attvalues>
+        <viz:size value="4.175676"/>
+        <viz:position x="-553.4822" y="-344.46338"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="표정(N)" label="표정">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="156.0064" y="-476.94333"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="하늘(N)" label="하늘">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="4"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="35.0"/>
+          <attvalue for="weighted degree" value="35.0"/>
+        </attvalues>
+        <viz:size value="5.2297297"/>
+        <viz:position x="-322.10638" y="41.673443"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="한마음(N)" label="한마음">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="357.10712" y="443.9682"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="한숨(N)" label="한숨">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="157.96242" y="-570.5514"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="젊(P)" label="젊">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="236.94368" y="-527.66327"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="해(N)" label="해">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="10.0"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="4.131757"/>
+        <viz:position x="-480.8632" y="-334.5172"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="햇살(N)" label="햇살">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="7.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="123.79907" y="619.6218"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="눈부시(P)" label="눈부시">
+        <attvalues>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="7.0"/>
+          <attvalue for="weighted outdegree" value="0.0"/>
+          <attvalue for="weighted degree" value="7.0"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="201.25949" y="620.8106"/>
+        <viz:color r="255" g="173" b="249"/>
+      </node>
+      <node id="혼자(N)" label="혼자">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="3"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="25.0"/>
+          <attvalue for="weighted degree" value="25.0"/>
+        </attvalues>
+        <viz:size value="4.7905407"/>
+        <viz:position x="-132.59932" y="270.95636"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="후(N)" label="후">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="17.0"/>
+          <attvalue for="weighted degree" value="17.0"/>
+        </attvalues>
+        <viz:size value="4.439189"/>
+        <viz:position x="298.94263" y="-271.55142"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+      <node id="후회(N)" label="후회">
+        <attvalues>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted indegree" value="0.0"/>
+          <attvalue for="weighted outdegree" value="8.0"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="4.043919"/>
+        <viz:position x="-382.79755" y="184.43518"/>
+        <viz:color r="255" g="255" b="255"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="가슴(N)" target="가(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="1" source="가슴(N)" target="남(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="2" source="가슴(N)" target="뛰(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="3" source="가슴(N)" target="뜨겁(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="4" source="가슴(N)" target="비(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="5" source="가슴(N)" target="쌓이(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="6" source="가슴(N)" target="아프(P)" weight="28.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="7" source="가슴(N)" target="작(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="8" source="가슴(N)" target="태우(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="9" source="가을(N)" target="오(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="10" source="가을(N)" target="흐리(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="11" source="거리(N)" target="걷(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="12" source="걸(N)" target="스치(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="13" source="경아(N)" target="돌아오(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="14" source="곁(N)" target="떠나(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="15" source="곁(N)" target="떠나가(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="16" source="곁(N)" target="머물(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="17" source="곁(N)" target="없(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="18" source="곁(N)" target="있(P)" weight="26.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="19" source="곳(N)" target="가(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="20" source="곳(N)" target="깊(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="21" source="곳(N)" target="멀(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="22" source="곳(N)" target="쉬(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="23" source="곳(N)" target="어둡(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="24" source="곳(N)" target="없(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="25" source="그날(N)" target="오(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="26" source="그날(N)" target="잊(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="27" source="그리움(N)" target="남(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="28" source="그리움(N)" target="쌓이(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="29" source="기쁨(N)" target="되(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="30" source="기억(N)" target="나(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="31" source="기억(N)" target="슬프(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="32" source="기억(N)" target="아름답(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="33" source="기억(N)" target="잊(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="34" source="기억(N)" target="하(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="35" source="길(N)" target="가(P)" weight="17.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="36" source="길(N)" target="걷(P)" weight="23.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="37" source="길(N)" target="떠나가(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="38" source="길(N)" target="멀(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="39" source="길(N)" target="있(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="40" source="길(N)" target="찾(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="41" source="길(N)" target="하(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="42" source="꿈(N)" target="꾸(P)" weight="19.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="43" source="꿈(N)" target="보(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="44" source="꿈(N)" target="없(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="45" source="꿈(N)" target="있(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="46" source="꿈(N)" target="찾(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="47" source="나라(N)" target="새파랗(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="48" source="나라(N)" target="파랗(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="49" source="나리(N)" target="모(P)" weight="27.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="50" source="낙엽(N)" target="떨어지(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="51" source="날(N)" target="가(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="52" source="날(N)" target="기다리(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="53" source="날(N)" target="떠나(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="54" source="날(N)" target="만나(P)" weight="15.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="55" source="날(N)" target="아름답(P)" weight="19.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="56" source="날(N)" target="울(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="57" source="날(N)" target="위하(P)" weight="15.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="58" source="날(N)" target="이렇(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="59" source="날(N)" target="잊(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="60" source="날(N)" target="지나(P)" weight="25.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="61" source="날(N)" target="하(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="62" source="내일(N)" target="찾아오(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="63" source="네(N)" target="가(P)" weight="21.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="64" source="노래(N)" target="부르(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="65" source="노래(N)" target="슬프(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="66" source="눈(N)" target="감(P)" weight="44.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="67" source="눈(N)" target="뜨(P)" weight="22.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="68" source="눈(N)" target="맺히(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="69" source="눈(N)" target="바라보(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="70" source="눈(N)" target="슬프(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="71" source="눈(N)" target="잊(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="72" source="눈(N)" target="젖(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="73" source="눈(N)" target="흐르(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="74" source="눈물(N)" target="나(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="75" source="눈물(N)" target="뜨겁(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="76" source="눈물(N)" target="보(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="77" source="눈물(N)" target="없(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="78" source="눈물(N)" target="흐르(P)" weight="36.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="79" source="눈물(N)" target="흘리(P)" weight="40.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="80" source="님(N)" target="떠나(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="81" source="다디다담(N)" target="담(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="82" source="다디담(N)" target="담(P)" weight="24.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="83" source="달(N)" target="보(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="84" source="담다디(N)" target="담(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="85" source="대답(N)" target="없(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="86" source="도네(N)" target="돌아가네(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="87" source="뒤(N)" target="흐르(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="88" source="때(N)" target="가(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="89" source="때(N)" target="그리(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="90" source="때(N)" target="기쁘(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="91" source="때(N)" target="슬프(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="92" source="때(N)" target="오(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="93" source="때(N)" target="있(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="94" source="때(N)" target="하(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="95" source="라디오(N)" target="켜(P)" weight="20.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="96" source="라디오(N)" target="크(P)" weight="18.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="97" source="르네(N)" target="부(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="98" source="리(N)" target="슬프(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="99" source="리(N)" target="싫(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="100" source="리(N)" target="울(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="101" source="마(N)" target="가지(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="102" source="마음(N)" target="깊(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="103" source="마음(N)" target="떠나(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="104" source="마음(N)" target="모르(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="105" source="마음(N)" target="보(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="106" source="마음(N)" target="비(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="107" source="마음(N)" target="새파랗(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="108" source="마음(N)" target="슬프(P)" weight="21.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="109" source="마음(N)" target="아프(P)" weight="18.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="110" source="마음(N)" target="알(P)" weight="20.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="111" source="마음(N)" target="없(P)" weight="17.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="112" source="마음(N)" target="열(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="113" source="마음(N)" target="있(P)" weight="18.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="114" source="마음(N)" target="주(P)" weight="18.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="115" source="마음(N)" target="하(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="116" source="말(N)" target="떠나(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="117" source="말(N)" target="수줍(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="118" source="말(N)" target="싫(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="119" source="말(N)" target="없(P)" weight="24.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="120" source="말(N)" target="있(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="121" source="말(N)" target="하(P)" weight="117.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="122" source="말(N)" target="흘리(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="123" source="맘(N)" target="아프(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="124" source="모두(N)" target="부질없(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="125" source="모두(N)" target="사라지(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="126" source="모습(N)" target="그리(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="127" source="모습(N)" target="멀(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="128" source="모습(N)" target="보(P)" weight="18.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="129" source="모습(N)" target="사라지(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="130" source="모습(N)" target="슬프(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="131" source="모습(N)" target="아름답(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="132" source="모습(N)" target="없(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="133" source="몸살(N)" target="하(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="134" source="미싱(N)" target="돌아가네(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="135" source="바람(N)" target="가(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="136" source="바람(N)" target="따르(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="137" source="바람(N)" target="불(P)" weight="49.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="138" source="바람(N)" target="불어오(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="139" source="바람(N)" target="스치(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="140" source="바람(N)" target="오(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="141" source="바람아(N)" target="멈추(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="142" source="발걸음(N)" target="돌아서(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="143" source="밤(N)" target="가(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="144" source="밤(N)" target="길(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="145" source="밤(N)" target="깊(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="146" source="밤(N)" target="어둡(P)" weight="15.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="147" source="밤(N)" target="없(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="148" source="밤(N)" target="오(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="149" source="밤(N)" target="외롭(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="150" source="밤(N)" target="잠들(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="151" source="밤(N)" target="지나(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="152" source="밤(N)" target="하얗(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="153" source="별(N)" target="되(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="154" source="별(N)" target="보(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="155" source="별(N)" target="빛나(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="156" source="볼(N)" target="없(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="157" source="비(N)" target="내리(P)" weight="31.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="158" source="비(N)" target="맞(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="159" source="비(N)" target="오(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="160" source="빗물(N)" target="같(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="161" source="사람(N)" target="가(P)" weight="20.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="162" source="사람(N)" target="그렇(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="163" source="사람(N)" target="그립(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="164" source="사람(N)" target="되(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="165" source="사람(N)" target="떠나(P)" weight="15.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="166" source="사람(N)" target="떠나가(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="167" source="사람(N)" target="많(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="168" source="사람(N)" target="보(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="169" source="사람(N)" target="싫(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="170" source="사람(N)" target="없(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="171" source="사람(N)" target="오(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="172" source="사랑(N)" target="가(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="173" source="사랑(N)" target="감(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="174" source="사랑(N)" target="같(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="175" source="사랑(N)" target="그(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="176" source="사랑(N)" target="그렇(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="177" source="사랑(N)" target="남(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="178" source="사랑(N)" target="남기(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="179" source="사랑(N)" target="느끼(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="180" source="사랑(N)" target="돌아서(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="181" source="사랑(N)" target="되(P)" weight="31.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="182" source="사랑(N)" target="떠나(P)" weight="33.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="183" source="사랑(N)" target="떠나가(P)" weight="19.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="184" source="사랑(N)" target="르(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="185" source="사랑(N)" target="만나(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="186" source="사랑(N)" target="모르(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="187" source="사랑(N)" target="받(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="188" source="사랑(N)" target="변하(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="189" source="사랑(N)" target="보(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="190" source="사랑(N)" target="살(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="191" source="사랑(N)" target="슬프(P)" weight="20.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="192" source="사랑(N)" target="아름답(P)" weight="28.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="193" source="사랑(N)" target="아프(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="194" source="사랑(N)" target="알(P)" weight="21.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="195" source="사랑(N)" target="없(P)" weight="35.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="196" source="사랑(N)" target="울(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="197" source="사랑(N)" target="이렇(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="198" source="사랑(N)" target="잃어버리(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="199" source="사랑(N)" target="있(P)" weight="53.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="200" source="사랑(N)" target="잊(P)" weight="52.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="201" source="사랑(N)" target="주(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="202" source="사랑(N)" target="찾(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="203" source="사랑(N)" target="철없(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="204" source="사랑(N)" target="하(P)" weight="70.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="205" source="상처(N)" target="남(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="206" source="새(N)" target="가(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="207" source="새(N)" target="날아가(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="208" source="새(N)" target="되(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="209" source="생각(N)" target="나(P)" weight="21.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="210" source="생각(N)" target="없(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="211" source="생각(N)" target="잊(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="212" source="생각(N)" target="하(P)" weight="15.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="213" source="세상(N)" target="많(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="214" source="세상(N)" target="변하(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="215" source="세상(N)" target="아름답(P)" weight="15.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="216" source="세상(N)" target="없(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="217" source="세월(N)" target="가(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="218" source="세월(N)" target="잃어버리(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="219" source="세월(N)" target="지나가(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="220" source="세월(N)" target="하(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="221" source="세월(N)" target="흐르(P)" weight="18.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="222" source="세월(N)" target="흘러가(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="223" source="세월(N)" target="흩(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="224" source="세월속(N)" target="지나(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="225" source="소리(N)" target="없(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="226" source="소용(N)" target="없(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="227" source="속(N)" target="있(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="228" source="손(N)" target="잡(P)" weight="30.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="229" source="수(N)" target="없(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="230" source="순간(N)" target="만나(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="231" source="스(N)" target="잘(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="232" source="슬픔(N)" target="가(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="233" source="시간(N)" target="많(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="234" source="시간(N)" target="지나(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="235" source="시간(N)" target="흘러가(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="236" source="시절(N)" target="가(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="237" source="시절(N)" target="어리(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="238" source="시절(N)" target="지나(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="239" source="아침(N)" target="오(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="240" source="아침(N)" target="이르(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="241" source="얘기(N)" target="스치(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="242" source="얘기(N)" target="하(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="243" source="어둠(N)" target="깊(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="244" source="어른(N)" target="되(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="245" source="얼굴(N)" target="보(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="246" source="여인(N)" target="가(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="247" source="영화(N)" target="슬프(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="248" source="옛날(N)" target="울(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="249" source="오늘(N)" target="울(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="250" source="웃음(N)" target="보이(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="251" source="웃음(N)" target="짓(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="252" source="위(N)" target="하(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="253" source="으(N)" target="남(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="254" source="이름(N)" target="부르(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="255" source="이름(N)" target="없(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="256" source="이밤(N)" target="지나(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="257" source="이별(N)" target="슬프(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="258" source="이별(N)" target="싫(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="259" source="이별(N)" target="없(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="260" source="이별(N)" target="하(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="261" source="이상(N)" target="없(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="262" source="이제(N)" target="가(P)" weight="12.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="263" source="이제(N)" target="느끼(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="264" source="이제(N)" target="되(P)" weight="14.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="265" source="이제(N)" target="떠나(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="266" source="이제(N)" target="떠나가(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="267" source="이제(N)" target="보(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="268" source="이제(N)" target="슬프(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="269" source="이제(N)" target="알(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="270" source="이제(N)" target="없(P)" weight="34.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="271" source="이제(N)" target="있(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="272" source="이제(N)" target="잊(P)" weight="20.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="273" source="이제(N)" target="하(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="274" source="일(N)" target="없(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="275" source="일(N)" target="지나(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="276" source="일(N)" target="하(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="277" source="입(N)" target="맞추(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="278" source="잠(N)" target="들(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="279" source="전(N)" target="하(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="280" source="줄(N)" target="없(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="281" source="지(N)" target="가(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="282" source="지마라(N)" target="가(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="283" source="지울수(N)" target="없(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="284" source="착각(N)" target="지나치(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="285" source="창가(N)" target="앉(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="286" source="창문(N)" target="열(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="287" source="처음(N)" target="만나(P)" weight="13.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="288" source="첫사랑(N)" target="아름답(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="289" source="추억(N)" target="남기(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="290" source="추억(N)" target="슬프(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="291" source="추억(N)" target="아름답(P)" weight="17.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="292" source="추억(N)" target="잊(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="293" source="추억(N)" target="지나(P)" weight="16.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="294" source="추억(N)" target="지나가(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="295" source="춤(N)" target="추(P)" weight="20.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="296" source="편지(N)" target="쓰(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="297" source="표정(N)" target="없(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="298" source="하늘(N)" target="바라보(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="299" source="하늘(N)" target="보(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="300" source="하늘(N)" target="하(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="301" source="하늘(N)" target="흐리(P)" weight="11.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="302" source="한마음(N)" target="새파랗(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="303" source="한숨(N)" target="젊(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="304" source="해(N)" target="뜨(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="305" source="햇살(N)" target="눈부시(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="306" source="혼자(N)" target="느끼(P)" weight="7.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="307" source="혼자(N)" target="울(P)" weight="10.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="308" source="혼자(N)" target="하(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="309" source="후(N)" target="되(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="310" source="후(N)" target="떠나(P)" weight="9.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+      <edge id="311" source="후회(N)" target="하(P)" weight="8.0">
+        <viz:color r="96" g="96" b="96"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

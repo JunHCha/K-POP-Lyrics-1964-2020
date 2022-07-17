@@ -46,7 +46,7 @@
         border-radius: 4px;
         -moz-border-radius: 4px;
         -webkit-border-radius: 4px;
-        background: rgb(245, 241, 241);
+        background: #222;
         height: 530px;
       }
       .sigma-expand {
@@ -65,7 +65,7 @@
       }
     </style>
   </head>
-  <body onload="start('1986to1991');">
+  <body onload="start('1986_to_1991');">
     <div class="container-fluid">
       <div class="navbar">
         <div class="navbar-inner">
@@ -82,10 +82,12 @@
             <span class="label label-info">Graph:</span>
             <select id="grafos">
               <option value="0">[Select]</option>
-              <optgroup label="Project2">
-                <option value="1986to1991" selected="true">1986to1991</option>
-                <option value="1992to1997">1992to1997</option>
-                <option value="2015to2020">2015to2020</option>
+              <optgroup label="Project1">
+                <option value="1986_to_1991" selected="true">
+                  1986_to_1991
+                </option>
+                <option value="1992_to_1997">1992_to_1997</option>
+                <option value="2015_to_2020">2015_to_2020</option>
               </optgroup>
             </select>
             <span id="tituloGrafico" class="label">Image Title</span>&nbsp;|
@@ -130,7 +132,7 @@
               height="24px"
             />
             <div id="valTheme">
-              <input id="theme" type="text" value="hide" />
+              <input id="theme" type="text" value="fishEye" />
             </div>
           </form>
           <div class="sigma-parent" id="sigma-example-parent">
