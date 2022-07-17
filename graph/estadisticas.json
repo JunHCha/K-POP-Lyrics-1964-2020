@@ -11,9 +11,9 @@
       "edges": "651",
       "description": "",
       "imgColorDescription": "",
-      "graphfile": "./1986to1991/1986to1991.csv",
-      "pdffile": "./1986to1991/1986to1991.pdf",
-      "browsegraph": "./1986to1991/1986to1991.gexf",
+      "graphfile": "1986to1991/1986to1991.csv",
+      "pdffile": "1986to1991/1986to1991.pdf",
+      "browsegraph": "1986to1991/1986to1991.gexf",
       "type": "Directed",
       "metrics": [
         {
