@@ -3,21 +3,6 @@ var sigInst, canvas, $GP;
 //Load configuration file
 var config = {};
 
-//For debug allow a config=file.json parameter to specify the config
-function GetQueryStringParams(sParam, defaultVal) {
-  var sPageURL = "" + window.location; //.search.substring(1);//This might be causing error in Safari?
-  if (sPageURL.indexOf("?") == -1) return defaultVal;
-  sPageURL = sPageURL.substr(sPageURL.indexOf("?") + 1);
-  var sURLVariables = sPageURL.split("&");
-  for (var i = 0; i < sURLVariables.length; i++) {
-    var sParameterName = sURLVariables[i].split("=");
-    if (sParameterName[0] == sParam) {
-      return sParameterName[1];
-    }
-  }
-  return defaultVal;
-}
-
 jQuery.getJSON(
   GetQueryStringParams("config", "config.json"),
   function (data, textStatus, jqXHR) {
@@ -33,6 +18,21 @@ jQuery.getJSON(
     $(document).ready(setupGUI(config));
   }
 ); //End JSON Config load
+
+//For debug allow a config=file.json parameter to specify the config
+function GetQueryStringParams(sParam, defaultVal) {
+  var sPageURL = "" + window.location; //.search.substring(1);//This might be causing error in Safari?
+  if (sPageURL.indexOf("?") == -1) return defaultVal;
+  sPageURL = sPageURL.substr(sPageURL.indexOf("?") + 1);
+  var sURLVariables = sPageURL.split("&");
+  for (var i = 0; i < sURLVariables.length; i++) {
+    var sParameterName = sURLVariables[i].split("=");
+    if (sParameterName[0] == sParam) {
+      return sParameterName[1];
+    }
+  }
+  return defaultVal;
+}
 
 // FUNCTION DECLARATIONS
 
@@ -403,9 +403,9 @@ function Search(a) {
     this.searching = !0;
     this.lastSearch = a;
     this.results.empty();
-    if (2 >= a.length)
+    if (0 >= a.length)
       this.results.html(
-        "<i>You must search for a name with a minimum of 3 letters.</i>"
+        "<i>You must search for a name with a minimum of 1 letter.</i>"
       );
     else {
       sigInst.iterNodes(function (a) {
